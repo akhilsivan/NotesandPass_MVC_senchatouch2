@@ -1,0 +1,41 @@
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/all';
+//notesview
+#notesfield{
+margin:'10px 10px 15px 10px';
+}
+#btnsave{
+margin:'0px 2px 1px 1px';
+width:'100%';
+}
+//passwordview
+#passwordview{
+margin:'10px 10px 15px 10px';
+}
+#btnsave{
+margin:'0px 2px 1px 1px';
+width:'100%';
+}
+//Loginview
+#loginview{
+margin:'100px 10px 10px 10px';
+}
+#btnlogin{
+margin:'20px 10px 10px 10px';
+}
+//Navview
+#naview{
+width : '75%';
+}
+//Registerview
+#registerview{
+margin:'170px 10px 10px 10px';
+}
+#btncancel{
+margin:'0px 1px 3px 3px';
+width:'50%';
+}
+#btnsubmit{
+margin:'0px 3px 3px 1px';
+width:'50%';
+}
